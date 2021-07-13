@@ -104,7 +104,7 @@ And some more...
    - Discord
    - <s>Signal</s>
    - <s>Jami</s>
- - **Social Media:** Rarely Instagram and Reddit, Always Roaming StackExchange if it counts as Social Media
+ - **Social Media:** Rarely Instagram and Reddit, Always Roaming StackExchange if it counts as Social Media, I may start writing in  seems cool
 
 <h3>
 <details>	
@@ -198,19 +198,60 @@ DataBase:<br /><br />
 </details>
 </h3>
 
+<h3>
+<details>
+<summary>⚡ Fun fact:</summary><br />
+<h5>
+<ul>
+ <li>I couldn't write a single sentence here without default **Github Suggestions**, commented in ✨**Special Repository**✨ `README.md` file!</li>
+ <li>I don't have my official resume and blog posts here yet, why? cause I don't have any of them!</li>
+ <li>Ok, OK, fine a real joke! (Refresh, for more!)</li>
+</ul>
+</h5>
+<br />
+<div align="center">
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+</samp></summary><p align ="centre"></p>
+</div>
+</details>
+</h3>
+
+
+<h3>
+<details>
+<summary>😎 Some cool and fancy info:</summary><br />
+<h5 align="center">
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Trophies</h2>
+</p>
+
+<a href="https://github.com/aarmn"><img src="https://github-profile-trophy.vercel.app/?username=aarmn&theme=dracula&margin-w=100&margin-h=40" alt="Github Trophy"></a> 
+
+<hr>
+
+<p align="center">
+ <h2 align="center">My Github Stats and Streaks</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=aarmn&show_icons=true&theme=dracula)](https://github.com/aarmn)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarmn&show_icons=true&theme=dracula&layout=compact)](https://github.com/aarmn)|![aarmn](https://github-readme-streak-stats.herokuapp.com?user=aarmn&theme=dracula&hide_border=true)
+<hr>
+
+</h5>
+</div>
+</details>
+</h3>
+
+
 ### 📫 How to reach me:
 
  - **Telegram:** [@aarmn80](https://t.me/aarmn80) | [@aarmn_limitless](https://t.me/aarmn_limitless)
  - **Email:** aarmn80@gmail.com | laryanhorizon@gmail.com
  - **Website:** Soon! | Sooner!
 
-
-<details>	
-<summary><h3><b>⚡ Fun fact:</b></h3></summary><br />
-
- - I couldn't write a single sentence here without default **Github Suggestions**, commented in ✨**Special Repository**✨ `README.md` file!
- - I don't have my official resume and blog posts here yet, why? cause I don't have any of them!
- - Expand this to see a tech-ish joke!
-
-</details>
 
