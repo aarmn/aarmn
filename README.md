@@ -151,14 +151,15 @@ DataBase:<br /><br />
 <br /><br />
 MATH/DS/AI/ML/NN/NLP/CV:<br /><br />
 [![NumPy Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-323330?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](#)
 [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)](#)
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-323330?style=for-the-badge&logo=Jupyter&logoColor=F37626)](#)
 [![OpenCV Badge](https://img.shields.io/badge/OpenCV-323330?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#)
 <br /><br />
-Networking:<br /><br />
+Networking/Protocols:<br /><br />
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
-<br /><br />
+[![Tor Badge](https://img.shields.io/badge/tor-323330?style=for-the-badge&logo=tor-project&logoColor=7E4798)](#)<br /><br />
 Electronic/Robotic:<br /><br />
 [![Arduino Badge](https://img.shields.io/badge/Arduino-323330?style=for-the-badge&logo=Arduino&logoColor=4FCCF3)](#)
 [![Raspberry-Pi Badge](https://img.shields.io/badge/RaspberryPi-323330?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)](#)
@@ -168,11 +169,15 @@ Design:<br /><br />
 [![Illustrator Badge](https://img.shields.io/badge/Illustrator-323330?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)](#)
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](#)
 [![XD Badge](https://img.shields.io/badge/XD-323330?style=for-the-badge&logo=adobexd&logoColor=FF26BE)](#)
-Writing/Presenting:<br /><br />
+<br /><br />
+Office Family(Writing/Presenting):<br /><br />
 [![Markdown Badge](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![Prezi Badge](https://img.shields.io/badge/Prezi-000000?style=for-the-badge&logo=Prezi&logoColor=white)](#)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
-[![Microsoft Visio Badge](https://img.shields.io/badge/Microsoft_Visio-323330?style=for-the-badge&logo=microsoft-visio&logoColor=3955A3)](#)
+[![Microsoft Visio Badge](https://img.shields.io/badge/Visio-323330?style=for-the-badge&logo=microsoft-visio&logoColor=3955A3)](#)
+[![Microsoft Excel Badge](https://img.shields.io/badge/Excel-323330?style=for-the-badge&logo=microsoft-excel&logoColor=217346)](#)
+[![Microsoft PowerPoint Badge](https://img.shields.io/badge/PowerPoint-323330?style=for-the-badge&logo=microsoft-powerpoint&logoColor=B7472A)](#)
+[![Microsoft Word Badge](https://img.shields.io/badge/Word-323330?style=for-the-badge&logo=microsoft-word&logoColor=2B579A)](#)
 </details>
 </h3>
 
@@ -184,14 +189,17 @@ Programming Languages:<br /><br />
 [![Rust Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Swift Badge](https://img.shields.io/badge/swift-323330?style=for-the-badge&logo=swift&logoColor=FA7343)](#)
 [![R Badge](https://img.shields.io/badge/r-323330?style=for-the-badge&logo=r&logoColor=276DC3)](#)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=Flutter&logoColor=54C5F8)](#) 
 <br /><br />
 JS Stack:<br /><br /> 
 [![Deno Badge](https://img.shields.io/badge/Deno-111111?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)](#)
-[![React Badge](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![React Badge](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![React Native Badge](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 <br /><br />
 Web Back:<br /><br /> 
 [![Flask Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 <br /><br />
 DevOps:<br /><br />
 [![CircleCI Badge](https://img.shields.io/badge/CIRCLE_CI-black?style=for-the-badge&logo=circleci&logoColor=white)](#)
@@ -207,12 +215,14 @@ DataBase:<br /><br />
 3D and Game:<br /><br /> 
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)](#)
 [![Blender Badge](https://img.shields.io/badge/Blender-323330?style=for-the-badge&logo=Blender&logoColor=EA7600)](#)
+[![OpenGL Badge](https://img.shields.io/badge/OpenGL-323330?style=for-the-badge&logo=opengl)](#)
 <br /><br />
-Design:<br /><br /> 
+UI/UX Design:<br /><br /> 
 [![Figma Badge](https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)](#)
-etc:<br /><br /> 
-[![AWS Badge](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](#)
 <br /><br /> 
+Etc:<br /><br /> 
+[![AWS Badge](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](#)
+[![CMake Badge](https://img.shields.io/badge/CMake-323330?style=for-the-badge&logo=cmake&logoColor=00FF00)](#)
 </details>
 </h3>
 
@@ -278,14 +288,3 @@ etc:<br /><br />
  - <s><b>Jami</b></s>
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
  - **Website:** Soon! | Sooner!
-
-[![Tor Badge](https://img.shields.io/badge/tor-323330?style=for-the-badge&logo=tor-project&logoColor=7E4798)](#)<br /><br />
-
-[![React Native Badge](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Flutter Badge](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=Flutter&logoColor=54C5F8)](#)
-[![OpenGL Badge](https://img.shields.io/badge/OpenGL-323330?style=for-the-badge&logo=opengl)](#)
-[![Sketch Badge](https://img.shields.io/badge/Sketch-323330?style=for-the-badge&logo=Sketch&logoColor=F7DF1E)](#)
-[![Pandas Badge](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=150458)](#)
-[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-323330?style=for-the-badge&logo=microsoft-excel&logoColor=217346)](#)
-[![CMake Badge](https://img.shields.io/badge/CMake-323330?style=for-the-badge&logo=cmake&logoColor=00FF00)](#)
