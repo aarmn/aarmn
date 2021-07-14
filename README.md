@@ -106,6 +106,7 @@ And some more...
 
 [![Python Badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=FFD343)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
+[![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
 </details>
 </h3>
 
@@ -115,10 +116,9 @@ And some more...
 
 [![C++ Badge](https://img.shields.io/badge/-c++-323330?style=for-the-badge&labelColor=white&logo=c%2B%2B&logoColor=00599C)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#)
-[![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
-[![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
 [![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#)
 [![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#)
+[![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
 </details>
 </h3>
 
