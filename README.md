@@ -117,6 +117,8 @@ And some more...
 [![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#)
 [![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
 [![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
+[![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#)
+[![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#)
 </details>
 </h3>
 
@@ -126,9 +128,9 @@ And some more...
 
 Programming Languages:<br /><br />
 [![Kotlin Badge](https://img.shields.io/badge/kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=F6891F)](#)
-[![C Badge](https://img.shields.io/badge/-c-323330?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
-[![.NET Badge](https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=5C2D91)](#)
+[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=c-sharp&logoColor=239120)](#)
+[![C Badge](https://img.shields.io/badge/-c-323330?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![ShellScript Badge](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 <br /><br />
 Web Front:<br /><br />
@@ -141,10 +143,11 @@ JS Stack:<br /><br />
 [![JSON Badge](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
 [![npm Badge](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
 <br /><br />
-DevOps:<br /><br />
+DevOps/Automation:<br /><br />
 [![Git Badge](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=Git&logoColor=F1502F)](#) 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white)](#)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-323330?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![Selenium Badge](https://img.shields.io/badge/Selenium-322D31?style=for-the-badge&logo=Selenium&logoColor=43B02A)](#)
 <br /><br />
 DataBase:<br /><br />
 [![Sqlite Badge](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) 
@@ -194,6 +197,7 @@ Programming Languages:<br /><br />
 JS Stack:<br /><br /> 
 [![Deno Badge](https://img.shields.io/badge/Deno-111111?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D)](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](#)
 [![React Badge](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![React Native Badge](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 <br /><br />
@@ -220,8 +224,11 @@ DataBase:<br /><br />
 UI/UX Design:<br /><br /> 
 [![Figma Badge](https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)](#)
 <br /><br /> 
-Etc:<br /><br /> 
+Cloud/SaaS/PaaS:<br /><br /> 
 [![AWS Badge](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](#)
+[![Google Cloud Badge](https://img.shields.io/badge/GoogleCloud-322D31?style=for-the-badge&logo=google-cloud&logoColor=4285F4)](#)
+<br /><br /> 
+Test/Make:<br /><br /> 
 [![CMake Badge](https://img.shields.io/badge/CMake-323330?style=for-the-badge&logo=cmake&logoColor=00FF00)](#)
 </details>
 </h3>
@@ -288,3 +295,4 @@ Etc:<br /><br />
  - <s><b>Jami</b></s>
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
  - **Website:** Soon! | Sooner!
+
