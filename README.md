@@ -367,26 +367,29 @@ Test/Make:<br /><br />
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
  - **Website:** Soon! | Sooner!
 
-### 🪙 Shall you support a creator?
-<!-- <table>
+## 🪙 Shall you support a creator?
+
+### 🔐 Normal Crypto Donate
+
+<table align="center">
   <tr>
-    <td align="center"><b>Ethereum</b></td>
-    <td align="center"><b>Bitcoin</b></td>
-    <td align="center"><b>Litecoin</b></td>
-    <td align="center"><b>ChainLink</b></td>
-    <td align="center"><b>Stellar</b></td>
+    <th align="center"><b>Ethereum</b></th>
+    <th align="center"><b>Bitcoin</b></th>
+    <th align="center"><b>Litecoin</b></th>
+    <th align="center"><b>ChainLink</b></th>
+    <th align="center"><b>Stellar</b></th>
   </tr>
   <tr>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center">0xef9e0697af2b4 <br />b9b85eda19159ce <br />98150cb05ff7</td>
+    <td align="center">36eSEBaZCRRnSLC <br />RWz2M5anu9LbBUf <br />13CE</td>
+    <td align="center">LNfT4ZJ9BBxAzzb <br />oP7aoz6iY2SMxRJ <br />wa5k</td>
+    <td align="center">0xef9e0697af2b4 <br />b9b85eda19159ce <br />98150cb05ff7</td>
+    <td align="center">GAN5X2FUP2PCQIT <br />FAZE2CB5PBTGVZK <br />VJLUDVTRRRV7PTZ <br />YQWYD4CRP65</td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/btc.png" alt="btc logo" width = 100 height = 100></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/ltc.jpg" alt="ltc logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/ltc.png" alt="ltc logo" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/link.png" alt="link logo" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/xlm.png" alt="xlm logo" width = 100 height = 100></td>
   </tr>
@@ -399,40 +402,56 @@ Test/Make:<br /><br />
   </tr>
 </table>
 
-<table>
+### 🌈 Very Donate 
+
+<table align="center">
   <tr>
-    <td align="center"><b>Dogecoin</b></td>
-    <td align="center"><b>Shiba Inu</b></td>
-    <td align="center"><b>BAT (Basic Attention Token)</b></td>
-    <td align="center"><b>PooCoin</b></td>
+    <th align="center"><b>Dogecoin</b></td>
+    <th align="center"><b>Shiba Inu</b></td>
+    <th align="center"><b>BAT (Basic <br /> Attention Token)</b></td>
   </tr>
   <tr>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center">DMozafjZgjdbu7P <br />7dahNYyM9kAcgwY <br />iNu9</td>
+    <td align="center">0x2c06790728090 <br />ad01adf87b52228 <br />739652310203</td>
+    <td align="center">0xef9e0697af2b4 <br />b9b85eda19159ce <br />98150cb05ff7</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/doge.webp" alt="doge logo" width = 100 height = 100></td> 
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/shib.png" alt="shib logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/bat.webp" alt="bat logo" width = 100 height = 100></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/dogeqr.png" alt="doge qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/batqr.png" alt="bat qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/shibqr.png" alt="shib qrcode" width = 100 height = 100></td>
   </tr>
 </table>
 
-<table>
+### 💵 Cash/PayPal and Stable Coins Donate
+
+<table align="center">
   <tr>
-    <td align="center"><b>USDT</b></td>
-    <td align="center"><b>USDC</b></td>
-    <td align="center"><b>Ko-Fi</b></td>
-    <td align="center"><b>LibrePay</b></td>
+    <th align="center"><b>USDT</b></td>
+    <th align="center"><b>USDC</b></td>
+    <th align="center"><b>Ko-Fi</b></td>
+    <th align="center"><b>LibrePay</b></td>
   </tr>
   <tr>
-    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center">3DE5SWYeg7dvq6P <br />mnXVybTYhfq2hiE <br />xpMV</td>
+    <td align="center">0xef9e0697af2b4 <br />b9b85eda19159ce <br />98150cb05ff7</td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/usdt.png" alt="usdt logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/usdc.png" alt="usdc logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/usdtqr.png" alt="usdt qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/usdcqr.png" alt="usdc qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
   </tr>
 </table>
-
- -->
