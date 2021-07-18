@@ -1,12 +1,16 @@
 <h1 align="center">👋 Hi there, It's Aryan 👋</h1> 
-<h4 align="center">To Infinite, To Infinite</h4> 
+<h4 align="center">☄️ To Infinite, To Infinite ☄️</h4> 
 <!-- <h4 align="center">Click Here To Check My Website</h4> -->
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/aarmn/aarmn/main/Limitless.png" alt="Limitless Logo" width="300" height="300">
+</h1>
 
 ### 🔭 I’m currently working on:
 
  - **🌈Halify** ( [Github](https://github.com/aarmn/halify) | [Gitlab](https://gitlab.com/aarmn/halify) | PyPI | Website | Blog )
- - **🚀Hyperfast** ( [Github](https://github.com/aarmn/HyperFast) | [Gitlab](https://gitlab.com/aarmn/Hyper-Fast) | Blog )
- - **🤘 Rockstart** ( [Github](https://github.com/aarmn/RockStart) | [Gitlab](https://gitlab.com/aarmn/RockStart) | PyPI | Website | Blog )
+ - <a name="hyperfast"> **🚀Hyperfast** ( [Github](https://github.com/aarmn/HyperFast) | [Gitlab](https://gitlab.com/aarmn/Hyper-Fast) | Blog ) </a>
+ - <a name="rockstart"> **🤘 Rockstart** ( [Github](https://github.com/aarmn/RockStart) | [Gitlab](https://gitlab.com/aarmn/RockStart) | PyPI | Website | Blog ) </a>
  - **🧹Quidditch** ( [Github](https://github.com/aarmn/quidditch) | [Gitlab](https://gitlab.com/aarmn/quidditch) | PyPI | Blog )
  - **👾Servicify** ( Github | Gitlab | PyPI | Website | Blog )
  - **🔐CryptoCut** ( [Github](https://github.com/infinite-team/cryptocut) | [Gitlab](https://gitlab.com/infinite-team/cryptocut) | PyPI | Website | Blog )
@@ -104,9 +108,76 @@ And some more...
 <details>	
 <summary><b>📚 Technologies I'm fairly good in:</b></summary><br />
 
+<h5>
+<tt>
+
+
+
 [![Python Badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=FFD343)](#)
-[![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
-[![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
+My main focus is Python, Im pythoning for 5 years, since secondary school, just after I learnt vb and vb.net, it's simplicity, great and vast packages in many fields (including AI, data-science, automation and etc), awesome zen and syncness (usually), portability of code, powerful stdlib, and impowering vibe to go and do things, is what made me love it, yes, it's among one of the slowest widely used programming languages out there, yes it's bdfl is no more there, yes it has no good way to make good games, mobile apps or even good UI (which was a huge pain for me cause I always tried and landed to awful results) and yes new updates sometimes are not as focused and solid and without that bold python identity these days, but I believe even if it won't be a part of future, it will influence it, as perl did, great languages in their time, never die, atleast I dont remember any example!
+ 
+Emotional talks and Python introduction beside, I did many projects with python (maryam, easylooger, cryptocut and ...), meanwhile I'm planning learn faster, and more recent pg-langs, and even planning to gather some knowledge to make one (!), most of my resume is python, I worked with a billion python package, some of them which I remember is listed below: 
+
+<h6>
+
+(I show my percentage of knowledge in them with star, one star means I just used them once or twice, two stars means I used them and dig them and 3 stars mean I developed them, or I used them alot):
+ 
+</h6> 
+
+ - Alot of std-lib (sys, os, subprocess, regex, collection, enum, getpass, sqlite, socket ...)
+ - TUI
+   - art ★★☆
+   - colorful ★★★
+   - fire ★★★
+   - npyscreen ★☆☆
+   - ncurses ★☆☆
+ - Game
+   - pygame ★☆☆
+   - turtle ★☆☆
+ - GUI
+   - pysciter ★☆☆
+   - pyside2 ★★☆
+   - pyside6 ★☆☆
+   - enaml ★☆☆
+   - toga ★★☆
+   - tkinter ★★☆
+   - notify2 ★★☆
+ - GUI Automation
+   - pyautogui ★★☆
+   - pynput ★☆☆
+ - Python Alternative Engines
+   - nuitka ★☆☆
+   - pypy ★☆☆
+ - Scientific and High Speed Computation
+   - numpy ★☆☆
+   - scipy ★☆☆
+ - DataBase
+   - mongodb ★☆☆
+ - Internet and Sockets
+   - ftplib ★☆☆
+   - request ★★☆
+   - socket and socket.io ★☆☆
+   - pytube ★★☆
+   - pySmartDL ★☆☆
+   - fping ★☆☆
+ - Serialization and Interapplication Data Exchange
+   - memcahced ★★☆
+   - marshal ★★☆
+   - pickle ★★☆
+   - json ★☆☆
+ - Any Other?
+   - cryptography ★☆☆
+   - appdirs ★★★
+   - arrow ★☆☆
+
+ 
+[![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) [![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) I'm into linux for a long-time, actually for so long that I passed my fanboy age 😂 but I still love it, it's a powerful piece of os-kernel, that defeated microsoft strategy to kill it and now it's a perfume in hands of microsoft, to be sprayed on anything, windows with wsl, azure, and not just that but open-source idea overall, microsoft has one of the biggest open-source github repos, and now even own it, make vscode which is a great and free (as in freedom and price - mostly) and it's quite fascinating for a company which made fud about these all before, I use both windows and linux, I love KDE desktop and Im doing my stuff to contribute to it, I love what windows is becoming as well, it's way more developer friendly, has a great linux implemention and with being copycat added some great features of linux (multiple virtual desktops, workspaces of kde, clipboard, ...), it's faster and less laggy than before, it don't blast you with BSoD but still can die with a simple ransomware, still it's not unix and posix while you can use them in it, still need a bunch of restart in updates and setting changes, still short uptime is considered a better thing here, but I think linux should learn some stuff from microsoft as well, for example giving GUI for settings, better env var managing, graphics is not a blame on linux, more on nvidia but Xorg and Xserver refactor is a blame on linux desktop community, and for sure some stuff both are awful in, for example containing a good unified store for apps
+ 
+Ok this part rant is done as well, now what I know, I have knowledge level of LPIC1 (while I never went because of some financial issues) and some more in some fields, I want to go and give that exam and get those papers to stablize my process btw, I'm currently learning about daemon and servies in both operation systems, and Im learning powershell and bashscript and have one project in both of them, I have some projects to enhance Windows experience, [rockstart](#rockstart) and [hyperfast](#hyperfast), click on them to visit them, also for bash I have a bunch of personal aliases and funcs that come to use ([aa-script](https://github.com/aarmn/aa-script)), I love having a perfect setup and it drives me to learn more about these two OS, I have some experince with windows registers and dlls, .net and xaml, and I follow microsoft reunion project and it's windows features, new features, I wish to see kvm one day, there, and I actually wish one day microsoft make a gnu/linux version of windows with exe support, that day would be really happy for me, also that day pigs will fly into sky. I really don't know how to express what I know in these, maybe because I don't know anything, for example I have barely any idea about windows certificates and linux kernel compile. OK how to fix this, hmmm, btw I use arch!!!
+ 
+
+</tt>
+</h5>
 </details>
 </h3>
 
@@ -115,10 +186,10 @@ And some more...
 <summary><b>📃 Technologies I know:</b></summary><br />
 
 [![C++ Badge](https://img.shields.io/badge/-c++-323330?style=for-the-badge&labelColor=white&logo=c%2B%2B&logoColor=00599C)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#)
-[![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#)
-[![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#)
-[![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#) 
+[![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#) 
+[![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#) I used in Qt Technology in many ways, PySide2, PySide6, PyQt, Enaml, PySimpleGUI,
+[![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#) 
 </details>
 </h3>
 
@@ -296,3 +367,72 @@ Test/Make:<br /><br />
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
  - **Website:** Soon! | Sooner!
 
+### 🪙 Shall you support a creator?
+<!-- <table>
+  <tr>
+    <td align="center"><b>Ethereum</b></td>
+    <td align="center"><b>Bitcoin</b></td>
+    <td align="center"><b>Litecoin</b></td>
+    <td align="center"><b>ChainLink</b></td>
+    <td align="center"><b>Stellar</b></td>
+  </tr>
+  <tr>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/btc.png" alt="btc logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/ltc.jpg" alt="ltc logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/link.png" alt="link logo" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/xlm.png" alt="xlm logo" width = 100 height = 100></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/btcqr.png" alt="btc qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ltcqr.png" alt="ltc qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/linkqr.png" alt="link qrcode" width = 100 height = 100></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/xlmqr.png" alt="xlm qrcode" width = 100 height = 100></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>Dogecoin</b></td>
+    <td align="center"><b>Shiba Inu</b></td>
+    <td align="center"><b>BAT (Basic Attention Token)</b></td>
+    <td align="center"><b>PooCoin</b></td>
+  </tr>
+  <tr>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>USDT</b></td>
+    <td align="center"><b>USDC</b></td>
+    <td align="center"><b>Ko-Fi</b></td>
+    <td align="center"><b>LibrePay</b></td>
+  </tr>
+  <tr>
+    <td align="center"><tt>0xef9e0697af2b4b9b85eda19159ce98150cb05ff7</tt></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
+  </tr>
+</table>
+
+ -->
