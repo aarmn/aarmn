@@ -429,25 +429,17 @@ Test/Make:<br /><br />
   <tr>
     <th align="center"><b>USDT</b></td>
     <th align="center"><b>USDC</b></td>
-    <th align="center"><b>Ko-Fi</b></td>
-    <th align="center"><b>LibrePay</b></td>
   </tr>
   <tr>
     <td align="center">3DE5SWYeg7dvq6P <br />mnXVybTYhfq2hiE <br />xpMV</td>
     <td align="center">0xef9e0697af2b4 <br />b9b85eda19159ce <br />98150cb05ff7</td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/usdt.png" alt="usdt logo" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/usdc.png" alt="usdc logo" width = 100 height = 100></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/crypto/eth.png" alt="eth logo" width = 100 height = 100></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/usdtqr.png" alt="usdt qrcode" width = 100 height = 100></td>
     <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/usdcqr.png" alt="usdc qrcode" width = 100 height = 100></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/aarmn/aarmn/main/res/cryptoqr/ethqr.png" alt="eth qrcode" width = 100 height = 100></td>
   </tr>
 </table>
