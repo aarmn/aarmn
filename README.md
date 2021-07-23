@@ -166,10 +166,21 @@ Emotional talks and Python introduction beside, I did many projects with python 
    - appdirs ★★★
    - arrow ★☆☆
 
+[![ShellScript Badge](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)](#) Bash may not be the sharpest knife in the drawer, but for sure its the BEST-SELLER (well sorta, ancient sh is installed on more systems, for sure, cause Linus Torvalds et al love compability), It can do many stuff, it's fast, it's installed on nearly any distro you download and many problems? yep I guess just from here problems start, security issues, Apple changing default to zsh, fish killing them all in some feature and no support for objects?! well there is no extra juice anymore! what I know about it is how to pipe, tee, move and overwrite and append outputs, some problematic if situation, and I read some parts of it's code in C. also I have a cool but at the end of life project called as [aa-script](https://github.com/aarmn/aa-script), but Im planning for a cross-shell successor to it, and maybe a super big compiled kit, to get way more with collabrating with people who have dream of a better coreutils and shell, wait for it for now!
+
+[![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) I'm into linux for a long-time, actually for so long that I passed my fanboy age 😂 but I still love it, it's a powerful piece of os-kernel, I was and am a Linux user these days in WSL, and the only thing I miss is, well, KDE, more security, yakuake and guake, virtmanager and good qemu performance with kvm, stability and modularity to change things and look and feel, opening ext4 and btrfs drives, native support for git, installing things with typing, 100 extra GBs free on my SSD and ..., but Windows had features and wsl were good so I'm Windows :), I love the chemistry of linux, how it can revive old devices, impower great servers, you can recompile it in a way which dont load CD drivers if you dont have CD drives, and every problem is fixable, just sometimes it's very hard, and your system wont get slower with update increase, atleast not with windows slope, I worked with many distros (arch, ubuntu, kali, mxlinux, zorin, deepin, fedora, gentoo, ...), and many DEs (KDE💓, LXQT with and without kwin, XFCE, LXDE, GNOME, ...), compiled kernel, installed Nvidia driver (👏), and have some understanding of a Linux system pieces, commands, and file tree. I did LPIC1 course but never participated in exam due to financial issues, and Im currently working on deamons and systemctl deep understanding and programming, as well as ANSI escape codes, with focus on colors (because halify)
+
+[![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#) These days I say I love Microsoft technologies alot and I want to repeat it, I love powershell, long semantic commands with short abbreviations friendly to end-user and readable in scripts, good stores and fine support of doing things, just like other good shells, keeping aliases track, great man pages, cross-platform, great windows support that enhance your productivity, it's just good, for the right task, just those damn progress bars that break into your text are really irritating, it can be super slow to start sometimes, and it's still a windows thingy, so no posix or unix, no ncurses, and many other no that you gonna face, also [hyperfast](#hyperfast) project which turn ON/OFF some system features is written 100% with Posh! also the installer is not complete yet but you can use it right now, if you try hard enough!
+
+[![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) As you may know, Microsoft strategy to kill linux is dead for a while and now it's a perfume in hands of Microsoft, to be sprayed on anything, windows with WSL, azure with server OS, and not just that but open-source idea overall, Microsoft has one of the biggest open-source Github repos, and now it even own Github, so they host me in here (Hi 👋😂), they made vscode which is a great and free (as in freedom and price - mostly) and it's quite fascinating for a company which made fud about these all before, while I use both Windows and Linux, these days I keep Windows with WSL in my new laptop, I love what windows is becoming, it's way more developer friendly, has a great Linux implemention and with being copycat added some great features of Linux (multiple virtual desktops, workspaces of kde, clipboard, ...), it's faster and less laggy than before, it don't blast you with BSoD (yet still can die with a simple ransomware), It's not unix and posix while you can use them in it, still need a bunch of restart in updates and setting changes, still short uptime is considered a better thing here, but I think Linux should learn some stuff from microsoft as well, for example giving more GUI for settings, better env var managing and maybe, just maybe, standardize its configs like registeries, just as file in etc, not exactly what they did, about graphics, I think its not a blame on Linux, more on Nvidia but Xorg and Xserver refactor slow and partly dead process is a blame on Linux desktop developers community, and it may not be the place but some stuff both are awful in, for example containing a good unified store for apps/packages. I have an overall understanding of how Windows treat files, Windows settings 
+
+ I'm currently learning about daemon and servies
+ I have some projects to enhance Windows experience, [rockstart](#rockstart) and [hyperfast](#hyperfast)
+ I have some experince with windows registers and dlls, .net and xaml,
+ and I follow microsoft reunion project and it's windows features , new features
+ , I wish to see kvm one day, there, and I actually wish one day microsoft make a gnu/linux version of windows with exe support, that day would be really happy for me, also that day pigs will fly into sky. I really don't know how to express what I know in these, maybe because I don't know anything, for example I have barely any idea about windows certificates and linux kernel compile. OK how to fix this, hmmm, btw I use arch!!!
  
-[![Linux Badge](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) [![Windows Badge](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) I'm into linux for a long-time, actually for so long that I passed my fanboy age 😂 but I still love it, it's a powerful piece of os-kernel, that defeated microsoft strategy to kill it and now it's a perfume in hands of microsoft, to be sprayed on anything, windows with wsl, azure, and not just that but open-source idea overall, microsoft has one of the biggest open-source github repos, and now even own it, make vscode which is a great and free (as in freedom and price - mostly) and it's quite fascinating for a company which made fud about these all before, I use both windows and linux, I love KDE desktop and Im doing my stuff to contribute to it, I love what windows is becoming as well, it's way more developer friendly, has a great linux implemention and with being copycat added some great features of linux (multiple virtual desktops, workspaces of kde, clipboard, ...), it's faster and less laggy than before, it don't blast you with BSoD but still can die with a simple ransomware, still it's not unix and posix while you can use them in it, still need a bunch of restart in updates and setting changes, still short uptime is considered a better thing here, but I think linux should learn some stuff from microsoft as well, for example giving GUI for settings, better env var managing, graphics is not a blame on linux, more on nvidia but Xorg and Xserver refactor is a blame on linux desktop community, and for sure some stuff both are awful in, for example containing a good unified store for apps
  
-Ok this part rant is done as well, now what I know, I have knowledge level of LPIC1 (while I never went because of some financial issues) and some more in some fields, I want to go and give that exam and get those papers to stablize my process btw, I'm currently learning about daemon and servies in both operation systems, and Im learning powershell and bashscript and have one project in both of them, I have some projects to enhance Windows experience, [rockstart](#rockstart) and [hyperfast](#hyperfast), click on them to visit them, also for bash I have a bunch of personal aliases and funcs that come to use ([aa-script](https://github.com/aarmn/aa-script)), I love having a perfect setup and it drives me to learn more about these two OS, I have some experince with windows registers and dlls, .net and xaml, and I follow microsoft reunion project and it's windows features, new features, I wish to see kvm one day, there, and I actually wish one day microsoft make a gnu/linux version of windows with exe support, that day would be really happy for me, also that day pigs will fly into sky. I really don't know how to express what I know in these, maybe because I don't know anything, for example I have barely any idea about windows certificates and linux kernel compile. OK how to fix this, hmmm, btw I use arch!!!
  
 
 </tt>
@@ -180,12 +191,38 @@ Ok this part rant is done as well, now what I know, I have knowledge level of LP
 <h3>
 <details>	
 <summary><b>📃 Technologies I know:</b></summary><br />
+<h5>
+<tt>
 
-[![C++ Badge](https://img.shields.io/badge/-c++-323330?style=for-the-badge&labelColor=white&logo=c%2B%2B&logoColor=00599C)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#) 
-[![Powershell Badge](https://img.shields.io/badge/PowerShell-322D31?style=for-the-badge&logo=PowerShell&logoColor=5391FE)](#) 
-[![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#) I used in Qt Technology in many ways, PySide2, PySide6, PyQt, Enaml, PySimpleGUI,
-[![Swing Badge](https://img.shields.io/badge/-Swing-323330?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#) 
+[![C++ Badge](https://img.shields.io/badge/-c++-323330?style=for-the-badge&labelColor=white&logo=c%2B%2B&logoColor=00599C)](#) I used C++ for multiple short periods of time and thats why I'm not great in it, cause I did my job and exited, and consistency and continuity is the key to learning. My best project with it is a nice ascii art 2048 game that I call it 0x800 which is 2048 in hexadecimal radix and a mathematical high-school math app for android and iOS with C++Builder, that I'm trying to make them both more cross platform and upload them in my github, I'm good but not expert in it, I don't know many advance topics yet, e.g.:
+ - Up-casting and Down-casting
+ - effective use of GDB
+ - Deep understanding of object files
+ - Knowledge about complex gcc flags
+ - make, cmake, ctest, cdash
+ - Being fluent in OOP
+ - Sequence points in depth
+ - memory alignment in depth
+ - activation frames
+ - vtables in depth
+ - Using external libraries, like boost and Antlr
+ 
+but on the other hand I know what I don't know and I will learn it sooner or later, and I'm still learning, we shall not stop 😎.
+
+[![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#) It's around 6 months that I put a huge effort into learning java for our university courses (tbh, i hate java because outputs always feel like ram hungry toys, even famous companies products like Jetbrains IDEs while they are among best of bests in java world or Weka and etc, and It's both because how it works and how it handles GUI, which I HATE both), I know it's OOP and philosophy very well and I love OOP friendly vibe that you can code in peace, simply design patterns and structure and then execute, I can use it's stdlib fine, and for sake of making simple UIs I can work with swing and awt and all overriding stuff. I always used Intellij IDEA and I have no experience with eclipse, 
+But I don't know:
+ - Maven
+ - Android Programming
+ - Networking
+ - Some swing advance topics
+ - And I lack experience of reading good java projects code
+ - java cmd switches
+
+[![QT Badge](https://img.shields.io/badge/Qt-322D31?style=for-the-badge&logo=qt&logoColor=41CD52)](#) I'm a QT huge fan, end-user (I always use KDE as my DE in linux) and libraries user, both in C++ and Python, in Python in all forms of PySide, PySide2, PySide6, PyQT5, enaml, and PySimpleGUI, right now Im using it for CryptoCut project which is a end-user game changer for increasing privacy, I have many books about it and I'm progressing into its huge world of nice elements, millions of way to do one thing, and clear licensings and business models, for sure last one is said sarcastically!
+ 
+
+</tt>
+</h5>
 </details>
 </h3>
 
@@ -198,7 +235,6 @@ Programming Languages:<br /><br />
 [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=c-sharp&logoColor=239120)](#)
 [![C Badge](https://img.shields.io/badge/-c-323330?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
-[![ShellScript Badge](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 <br /><br />
 Web Front:<br /><br />
 [![HTML Badge](https://img.shields.io/badge/html5-323330?style=for-the-badge&logo=HTML5&logoColor=F06529)](#)
@@ -276,7 +312,7 @@ DevOps:<br /><br />
 [![CircleCI Badge](https://img.shields.io/badge/CIRCLE_CI-black?style=for-the-badge&logo=circleci&logoColor=white)](#)
 [![TravisCI Badge](https://img.shields.io/badge/Travis_ci-323330?style=for-the-badge&logo=travis&logoColor=2B2F33)](#)
 [![Gitlab CI Badge](https://img.shields.io/badge/GitLab_CI-323330?style=for-the-badge&logo=gitlab&logoColor=181717)](#)
-[![GitHub Actions Badge](https://img.shields.io/badge/Github_Actions-323330?style=for-the-badge&logo=githubactions&logoColor=2671E5)](#)
+[![GitHub Actions Badge](https://img.shields.io/badge/Github_Actions-323330?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0db7ed)](#)
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-323330?style=for-the-badge&logo=kubernetes&logoColor=326ce5)](#)
 <br /><br />
@@ -367,6 +403,7 @@ Test/Make:<br /><br />
 
 <details>
   <summary><strong>🔐 Normal Crypto Donate</strong></summary>
+  <br />
   <table align="center">
     <tr>
       <th align="center"><b>Ethereum</b></th>
@@ -401,6 +438,7 @@ Test/Make:<br /><br />
 
 <details>
   <summary><strong>🌈 Very Donate</strong></summary>
+  <br />
   <table align="center">
     <tr>
       <th align="center"><b>Dogecoin</b></td>
@@ -427,6 +465,7 @@ Test/Make:<br /><br />
 
 <details>
   <summary><strong>💵 Cash/PayPal and Stable Coins Donate</strong></summary>
+  <br />
   <table align="center">
     <tr>
       <th align="center"><b>USDT</b></td>
