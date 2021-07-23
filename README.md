@@ -17,8 +17,8 @@
 
 ### 📦 My Archived Projects:
 
- - **📝EasyLogger** ( [Github](https://github.com/aarmn/easylogger) | [Gitlab](https://gitlab.com/aarmn/easylogger) | [PyPI](https://pypi.org/project/easylogger/) | Blog )
- - **🛸AA-Script** ( [Github](https://github.com/aarmn/aa-script) | [Gitlab](https://gitlab.com/aarmn/aa-script) | Blog )
+ - <a name="easylogger"> **📝EasyLogger** ( [Github](https://github.com/aarmn/easylogger) | [Gitlab](https://gitlab.com/aarmn/easylogger) | [PyPI](https://pypi.org/project/easylogger/) | Blog )
+ - <a name="aa-script"> **🛸AA-Script** ( [Github](https://github.com/aarmn/aa-script) | [Gitlab](https://gitlab.com/aarmn/aa-script) | Blog )
 
 ### 💓 I love to spend my life while:
 
@@ -113,7 +113,7 @@ And some more...
 [![Python Badge](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=FFD343)](#)
 My main focus is Python, Im pythoning for 5 years, since secondary school, just after I learnt vb and vb.net, it's simplicity, great and vast packages in many fields (including AI, data-science, automation and etc), awesome zen and syncness (usually), portability of code, powerful stdlib, and impowering vibe to go and do things, is what made me love it, yes, it's among one of the slowest widely used programming languages out there, yes it's bdfl is no more there, yes it has no good way to make good games, mobile apps or even good UI (which was a huge pain for me cause I always tried and landed to awful results) and yes new updates sometimes are not as focused and solid and without that bold python identity these days, but I believe even if it won't be a part of future, it will influence it, as perl did, great languages in their time, never die, atleast I dont remember any example!
  
-Emotional talks and Python introduction beside, I did many projects with python (maryam, easylooger, cryptocut and ...), meanwhile I'm planning learn faster, and more recent pg-langs, and even planning to gather some knowledge to make one (!), most of my resume is python, I worked with a billion python package, some of them which I remember is listed below: 
+Emotional talks and Python introduction beside, I did many projects with python ([maryam](#maryam), [easylogger](#easylogger), [cryptocut](#cryptocut) and ...), meanwhile I'm planning to learn faster and more recent pg-langs, and even planning to gather some knowledge to make one (!), most of my resume is python, I worked with a billion python package, some of them which I remember is listed below: 
 
 <h6>
 
@@ -135,6 +135,9 @@ Emotional talks and Python introduction beside, I did many projects with python 
    - pysciter ★☆☆
    - pyside2 ★★☆
    - pyside6 ★☆☆
+   - PySimpleGui ★☆☆
+   - remi ★☆☆
+   - PyGObject ★☆☆
    - enaml ★☆☆
    - toga ★★☆
    - tkinter ★★☆
@@ -145,11 +148,18 @@ Emotional talks and Python introduction beside, I did many projects with python 
  - Python Alternative Engines
    - nuitka ★☆☆
    - pypy ★☆☆
- - Scientific and High Speed Computation
+ - Scientific, Plotting and High Speed Computation
    - numpy ★☆☆
    - scipy ★☆☆
+   - sympy ★☆☆
+   - matplotlib ★☆☆
+   - dash ★☆☆
+   - pytorch ★☆☆
+   - tensorflow ★☆☆
+   - neataptic ★☆☆
  - DataBase
    - mongodb ★☆☆
+   - sqlalchemy ★☆☆
  - Internet and Sockets
    - ftplib ★☆☆
    - request ★★☆
@@ -158,11 +168,12 @@ Emotional talks and Python introduction beside, I did many projects with python 
    - pySmartDL ★☆☆
    - fping ★☆☆
  - Serialization and Interapplication Data Exchange
-   - memcahced ★★☆
+   - memcached ★★☆
    - marshal ★★☆
    - pickle ★★☆
    - json ★☆☆
  - Any Other?
+   - easylogger ★★★
    - cryptography ★☆☆
    - appdirs ★★★
    - arrow ★☆☆
