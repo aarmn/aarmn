@@ -48,7 +48,7 @@
  - Java + AWT + swing (For University Sake)
  - [Trillium](https://github.com/zadam/trilium) Wonderful App
 
-### 👨‍💻 I want colabrate on:
+### 👨‍💻 I want to collaborate on:
 
  - **💌Lighthouse**
  - **🔐CryptoCut**
