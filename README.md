@@ -8,10 +8,10 @@
  - <a name="hyperfast"> **🚀Hyperfast** ( [Github](https://github.com/aarmn/HyperFast) | Blog ) </a>
  - <a name="rockstart"> **🤘 Rockstart** ( [Github](https://github.com/aarmn/RockStart) | PyPI | Website | Blog ) </a>
  - <a name="quidditch"> **🧹Quidditch** ( [Github](https://github.com/aarmn/quidditch) | PyPI | Blog ) </a>
- - <a name="servicify"> **👾Servicify** ( Github | Gitlab | PyPI | Website | Blog ) </a>
+ - <a name="servicify"> **👾Servicify** ( [Github](https://github.com/aarmn/servicify) | PyPI | Website | Blog ) </a>
  - <a name="cryptocut"> **🔐CryptoCut** ( [Github](https://github.com/infinite-team/cryptocut) | PyPI | Website | Blog ) </a>
  - <a name="maryam"> **🧮Maryam** ( [Github](https://github.com/aarmn/maryam) | PyPI | Website | Blog ) </a>
- - <a name="lighthouse"> **💌Lighthouse** ( Github | PyPI | Website | Blog ) </a>
+ - <a name="lighthouse"> **💌Lighthouse** ( [Github](https://github.com/infinite-team/lighthouse) | PyPI | Website | Blog ) </a>
  - <a name="smarttag"> **🏷️Smarttag** ( [Github](https://github.com/aarmn/SmartTag) | PyPI | Website | Blog ) </a>
  - <a name="fanpoosh"> **👕FanPoosh Website** ( [Website](https://fanpoosh.shop) ) </a>
 
