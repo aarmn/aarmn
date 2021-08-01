@@ -17,8 +17,8 @@
 
 ### 📦 My Archived Projects:
 
- - <a name="easylogger"> **📝EasyLogger** ( [Github](https://github.com/aarmn/easylogger) | [Gitlab](https://gitlab.com/aarmn/easylogger) | [PyPI](https://pypi.org/project/easylogger/) | Blog )
- - <a name="aa-script"> **🛸AA-Script** ( [Github](https://github.com/aarmn/aa-script) | [Gitlab](https://gitlab.com/aarmn/aa-script) | Blog )
+ - <a name="easylogger"> **📝EasyLogger** ( [Github](https://github.com/aarmn/easylogger) | [PyPI](https://pypi.org/project/easylogger/) | Blog )
+ - <a name="aa-script"> **🛸AA-Script** ( [Github](https://github.com/aarmn/aa-script) | Blog )
 
 ### 💓 I love to spend my life while:
 
