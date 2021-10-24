@@ -13,7 +13,7 @@
  - <a name="maryam"> **🧮Maryam** ( [Github](https://github.com/aarmn/maryam) | PyPI | Website | Blog ) </a>
  - <a name="lighthouse"> **💌Lighthouse** ( [Github](https://github.com/infinite-team/lighthouse) | PyPI | Website | Blog ) </a>
  - <a name="smarttag"> **🏷️Smarttag** ( [Github](https://github.com/aarmn/SmartTag) | PyPI | Website | Blog ) </a>
- - <a name="fanpoosh"> **👕FanPoosh Website** ( [Website](https://fanpoosh.shop) ) </a>
+<!--  - <a name="fanpoosh"> **👕FanPoosh Website** ( [Website](https://fanpoosh.shop) ) </a> -->
 
 ### 📦 My Archived Projects:
 
@@ -202,7 +202,7 @@ Ok talks beside what I know; I have an overall understanding of how Windows trea
 
 [![C++ Badge](https://img.shields.io/badge/-c++-323330?style=for-the-badge&labelColor=white&logo=c%2B%2B&logoColor=00599C)](#) I used C++ for multiple short periods of time and thats why I'm not great in it, because I did my job and exited, and consistency and continuity is the key to learning. My best project with cpp is a nice ascii art 2048 game that I call it 0x800 which is 2048 in hexadecimal radix and a mathematical high-school math app for android and iOS with C++Builder (Riazidan), that I'm trying to make them both more cross platform and upload them in my github, I'm good but not expert in it, I don't know many advance topics yet, e.g.:
  - Up-casting and Down-casting
- - effective use of GDB
+ - Effective use of GDB
  - Deep understanding of object files
  - Knowledge about complex gcc flags
  - make, cmake, ctest, cdash
@@ -214,6 +214,27 @@ Ok talks beside what I know; I have an overall understanding of how Windows trea
  - Using external libraries, like boost and Antlr
  
 but on the other hand I know what I don't know and I will learn it sooner or later, and I'm still learning, we shall not stop 😎.
+ 
+[![Rust Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#) I'm using Rust as my most recent attempt to try other programming languages to expand my knowledge and get ideas of how to do things better, Rust is a pretty language, which can become way better, I really miss features like
+ - Deafult function values
+ - goto
+ - Straight forward OOP with classes
+ - Not be forced to type mut in definition of nearly each and every var
+ - Normal exceptions system, which let you ignore possible errors, without even thinking to it :) !
+ - Ease of Python interfacing (PyO3 is good, but not great)
+ - Not to fix any problem in pglang with a macro :) !!!
+ 
+from C++ and I feel cargo without cargo-edit is hard to be used and they should merge these projects together, but on the other hand, Rust is:
+ - Single brain development, not a collection of billions of standard with billions of compilers which support a partition of those standards each
+ - Recently made for recent concerns
+ - Fans, which develop useful packages like wildfire
+ - Macros which won't make awful bugs normally
+ - Memory safty
+ - One package-manager, Offical, and Done-well
+ - Faster and easier multi-platform development compared to C and CPP
+ - rustup, rustc and cargo combination is way more sensible compared to gcc/tcc/llvm-clang/Intel-cpp/... and cmake/conan/cpm/... combination (I mentioned once, but it's so important to me I mentioned it again)
+
+Right now, my goal for Rust is to make one of the best CLI 2048 games in it, and maybe later on port halify to (or write it ground up in) Rust
 
 [![Java Badge](https://img.shields.io/badge/-Java-323330?style=for-the-badge&labelColor=F89820&logo=java&logoColor=007396)](#) It's around 6 months that I put a huge effort into learning java for our university courses (tbh, i hate java because outputs always feel like RAM hungry toys, even famous companies products like Jetbrains IDEs while they are among best of bests in java world or Weka and etc, and It's both because how it works and how it handles GUI, which I HATE both), I know it's OOP and philosophy very well and I love OOP friendly vibe that you can code in peace, simply design patterns and structure and then execute, I can use it's stdlib fine, and for sake of making simple UIs I can work with swing and awt and all overriding stuff. I always used Intellij IDEA and I have no experience with eclipse, 
 But I don't know:
@@ -307,7 +328,6 @@ Etc:<br /><br />
 <summary><b>👀 Technologies I have under vision:</b></summary><br />
 
 Programming Languages:<br /><br />
-[![Rust Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Swift Badge](https://img.shields.io/badge/swift-323330?style=for-the-badge&logo=swift&logoColor=FA7343)](#)
 [![R Badge](https://img.shields.io/badge/r-323330?style=for-the-badge&logo=r&logoColor=276DC3)](#)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=Flutter&logoColor=54C5F8)](#) 
