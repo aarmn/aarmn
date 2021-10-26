@@ -52,7 +52,7 @@
 
  - **💌Lighthouse**
  - **🔐CryptoCut**
- - **🌊Ocean Project** (a project to make modern set of tools for those nobody dare to touch, an alternative package to **coreutils**, a python-like cross-platform shell, a package manager to mix shells and their "Oh-My-"s and wayyy more)
+ - **🌊Ocean Project** (a project to make modern set of tools for those nobody dare to touch, an alternative package to **coreutils**, a python-like cross-platform shell, a package manager to mix shells and their "Oh-My-"s and wayyy more!)
 
 And some more...
 
