@@ -39,6 +39,7 @@
 ### 🌱 I’m currently learning:
 
  - Pro Python (Stepping from Junior to Senior)
+ - Rust
  - Web Technologies (Planning to learn NodeJS, Deno, React, React Native, Electron)
  - Django
  - Flutter
