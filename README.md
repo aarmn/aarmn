@@ -4,15 +4,17 @@
 
 ### 🔭 I’m currently working on:
 
- - <a name="halify"> **🌈Halify** ( [Github](https://github.com/aarmn/halify) | PyPI | Website | Blog ) </a>
  - <a name="hyperfast"> **🚀Hyperfast** ( [Github](https://github.com/aarmn/HyperFast) | Blog ) </a>
  - <a name="rockstart"> **🤘 Rockstart** ( [Github](https://github.com/aarmn/RockStart) | PyPI | Website | Blog ) </a>
- - <a name="quidditch"> **🧹Quidditch** ( [Github](https://github.com/aarmn/quidditch) | PyPI | Blog ) </a>
  - <a name="servicify"> **👾Servicify** ( [Github](https://github.com/aarmn/servicify) | PyPI | Website | Blog ) </a>
- - <a name="cryptocut"> **🔐CryptoCut** ( [Github](https://github.com/infinite-team/cryptocut) | PyPI | Website | Blog ) </a>
- - <a name="maryam"> **🧮Maryam** ( [Github](https://github.com/aarmn/maryam) | PyPI | Website | Blog ) </a>
- - <a name="lighthouse"> **💌Lighthouse** ( [Github](https://github.com/infinite-team/lighthouse) | PyPI | Website | Blog ) </a>
- - <a name="smarttag"> **🏷️Smarttag** ( [Github](https://github.com/aarmn/SmartTag) | PyPI | Website | Blog ) </a>
+ - <a name="smarttag"> **🏷️TheNet** ( [Github](https://github.com/aarmn/TheNet) | PyPI | Website | Blog ) </a>
+ - <a name="sublime for the win"> **🏷️TheNet** ( [Github](https://github.com/aarmn/TheNet) | PyPI | Website | Blog ) </a>
+ - <a name="smarttag"> **🏷️TheNet** ( [Github](https://github.com/aarmn/TheNet) | PyPI | Website | Blog ) </a>
+<!--  - <a name="quidditch"> **🧹Quidditch** ( [Github](https://github.com/aarmn/quidditch) | PyPI | Blog ) </a> -->
+<!--  - <a name="cryptocut"> **🔐CryptoCut** ( [Github](https://github.com/infinite-team/cryptocut) | PyPI | Website | Blog ) </a> -->
+<!--  - <a name="maryam"> **🧮Maryam** ( [Github](https://github.com/aarmn/maryam) | PyPI | Website | Blog ) </a> -->
+<!--  - <a name="lighthouse"> **💌Lighthouse** ( [Github](https://github.com/infinite-team/lighthouse) | PyPI | Website | Blog ) </a> -->
+<!--  - <a name="halify"> **🌈Halify** ( [Github](https://github.com/aarmn/halify) | PyPI | Website | Blog ) </a> -->
 <!--  - <a name="fanpoosh"> **👕FanPoosh Website** ( [Website](https://fanpoosh.shop) ) </a> -->
 
 ### 📦 My Archived Projects:
@@ -97,10 +99,10 @@ And some more...
    - I Love these as well and may switch to some of them: **ClearLinux**, **MX Linux**, **Garuda**, **Zorin**, **Deepin**, **Puppy**, **Reborn**, **KDE Neon**, **NixOS**, **NetRunner**, **JingOS**, **Android x86** port projectes, **NomadBSD**, **Temple OS**.
  - **Mobile OS:** Android (Nah, I don't use Plasma Mobile🤣!)
  - **Editor:** 
-   - **Sublime**
-   - **VSCode**
-   - I also use **Visual Studio**, **PyCharm**, **IntelliJ IDEA**, **Rider**, **micro** as well and I love to get time to learn **VIM**, **Emacs**, **Spacemacs**
-   - I was an **Atom** OG
+   - **VSCode 💖**
+   - **Sublime Text**
+   - I also use **Visual Studio**, **Jetbrain IDEs**, **micro** as well and I love to get time to learn **VIM**, **Emacs**, **Spacemacs**
+   - I was an **Atom** OG, but its as slow as snail, so, goodbye old friend!
 
 <h3>
 <details>	
