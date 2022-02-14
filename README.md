@@ -4,11 +4,11 @@
 
 ### 🔭 I’m currently working on:
 
- - <a name="Zen"> **✅Zen** ( [Github](https://github.com/node-org/zen) | PyPI | Website | Blog ) </a>
+ - <a name="Zen"> **✅Zen** ( [Github](https://github.com/node-org/zen) | NPM | Chrome Web Store | Firefox Add-ons | Microsoft Store (Edge) | Website | Blog ) </a>
  - <a name="smarttag"> **🏷️TheNet** ( [Github](https://github.com/aarmn/TheNet) | PyPI | Website | Blog ) </a>
  - <a name="rockstart"> **🤘Rockstart** ( [Github](https://github.com/aarmn/RockStart) | PyPI | Website | Blog ) </a>
  - <a name="hyperfast"> **🚀Hyperfast** ( [Github](https://github.com/aarmn/HyperFast) | Blog ) </a>
- - <a name="Sublime For The Win"> **📝Sublime For The Win** ( [Github](https://github.com/aarmn/sublime-for-the-win) | PyPI | Website | Blog ) </a>
+ - <a name="Sublime For The Win"> **📝Sublime For The Win** ( [Github](https://github.com/aarmn/sublime-for-the-win) | Blog ) </a>
 <!--  - <a name="servicify"> **👾Servicify** ( [Github](https://github.com/aarmn/servicify) | PyPI | Website | Blog ) </a> -->
 <!--  - <a name="quidditch"> **🧹Quidditch** ( [Github](https://github.com/aarmn/quidditch) | PyPI | Blog ) </a> -->
 <!--  - <a name="cryptocut"> **🔐CryptoCut** ( [Github](https://github.com/infinite-team/cryptocut) | PyPI | Website | Blog ) </a> -->
