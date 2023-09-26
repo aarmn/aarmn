@@ -418,7 +418,6 @@ Test/Make:<br /><br />
 <hr>
 
 </h5>
-asdsadas
 </div>
 </details>
 </h3>
@@ -427,16 +426,16 @@ asdsadas
 ### 📫 How to reach me:
 
  - **Telegram:** [@aarmn80](https://t.me/aarmn80) | [@aarmn_limitless](https://t.me/aarmn_limitless)
- - **Twitter:** [@limitless_aarmn](https://twitter.com/limitless_aarmn) 
- - **Discord:** Soon! 
+ <!-- - **Twitter:** [@limitless_aarmn](https://twitter.com/limitless_aarmn) -->
+ - **Discord:** [aarmnthelimitless](https://discordapp.com/users/519566961118675007)
  - **Instagram:** [@limitless_aarmn](https://www.instagram.com/limitless_aarmn/)
- - **Reddit:** [u/aarmn_limitless](https://www.reddit.com/user/aarmn_limitless)
+ <!-- - **Reddit:** [u/aarmn_limitless](https://www.reddit.com/user/aarmn_limitless) -->
  - I'm Always Roaming [**StackExchange**](https://stackexchange.com/users/11582321/aarmn) if it counts as a place to reach, but I never kept to develop one acc there, give answer, vote up and etc; Yep, a big fault
  - I may write in my [**dev.to**](https://dev.to/aarmn)
- - <s><b>Signal</b></s>
- - <s><b>Jami</b></s>
+ <!-- - <s><b>Signal</b></s> -->
+ <!-- - <s><b>Jami</b></s> -->
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
- - **Website:** Soon! | Sooner!
+ - **Website:** [**limitless.codes**](https://limitless.codes) (WIP🚧)
  - Also Checkout my [**Gists**](https://gist.github.com/aarmn)!
 
 ## 🪙 Shall you support a creator?
