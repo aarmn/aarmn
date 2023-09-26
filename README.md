@@ -82,11 +82,10 @@ And some more...
  - **BashScripting** and **PowerShell**
  - I know some tools located in deep dungeons of internet, I may know anything 😈, good news, I won't terminate people who just ask me question!
 
-### 👷‍♂️ Tools I use, daily:
+<!-- ### 👷‍♂️ Tools I use, daily:
 
  - **Browser:**
    - **Firefox**
-   - **Vivaldi**
    - **OperaGX**
    - **Edge**
  - **Desktop OS:** 
@@ -103,6 +102,8 @@ And some more...
    - **Sublime Text**
    - I also use **Visual Studio**, **Jetbrain IDEs**, **micro** as well and I love to get time to learn **VIM**, **Emacs**, **Spacemacs**
    - I was an **Atom** OG, but its as slow as snail, so, goodbye old friend!
+
+-->
 
 <h3>
 <details>	
