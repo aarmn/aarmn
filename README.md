@@ -106,7 +106,7 @@ And some more...
 
 <h3>
 <details>	
-<summary><b>📚 Technologies I'm fairly good in:</b></summary><br />
+<summary>📚 Technologies I'm fairly good in:</summary><br />
 
 <h5>
 <tt>
@@ -199,7 +199,7 @@ Ok talks beside what I know; I have an overall understanding of how Windows trea
 
 <h3>
 <details>	
-<summary><b>📃 Technologies I know:</b></summary><br />
+<summary>📃 Technologies I know:</summary><br />
 <h5>
 <tt>
 
@@ -258,7 +258,7 @@ But I don't know:
 
 <h3>
 <details>	
-<summary><b>👨‍💻 Technologies I can use:</b></summary><br />
+<summary>👨‍💻 Technologies I can use:</summary><br />
 
 Programming Languages:<br /><br />
 [![V Badge](https://img.shields.io/badge/V_lang-FFFFFF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAMAAABhTZc9AAABp1BMVEUAAAAAAAEAAQAAAQEBAAABAQAAAAAAAAABAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABcBDw8ODg4LCwsLCxYQEBgQGCANFBoVGicMEhkTGSUUHy4VGR8UGSIYIjEWGycaJzQVHyYZJjYZJTUbISwdLDscIysfLEEaJC8eLz8dJDAgLUEcJjYfJTEjMkkfKjclNkojLTooOVAnM0EsPlgsNkcxRWItOUkxR2UtO0wzS2swP082Tm8wP1M4UXEzQ1YzQlY0RFg5VHY5VHg7VHg3R1w5SF0+W4BAXIM8TGNEYoo8TGJCX4g7TGM6TWNDYIhEY4o+UGhGZpA/UWhGYINKa5hJaZVKa5ZKa5dLa5dFWnNKapdNcJ5IXXhRd6ZKYHtVeatMYX5VfK9MY4FWfrNOZYJZfrRPZINYf7ZQZoVQZ4Vag7lbg7lQaYZag7hRaYdchbxSaolchr5Saohdh8BOZ4VOZ4hPaYpQZoVQZ4RRaIZSaolSa4pScJhScptTaolTaopTa4pTa4tTdJ5Xe61Yfa9Zf7JagbZch79dhr5dhr9dh75dh79neQqPAAAAdXRSTlMAAAAAAAABAgIDBAUGCQoLCxESFxcgICcnKSkyMjQ1Ozs8PT5GRkhLTU1PT1FTV1paZWZubnp6fn6CgoqKjo6Vl5eXl5ehoqKkqqqrq6yvsLG2tsHBwcPJycnKysrV1d3d4eLm5urr7Ozx8/Pz9PT2+Pv7/f0sql3SAAABtElEQVQYGQXBXW4UZBQA0HPv3IEiSEJCDNEGhwn22Q3ooytwmb67BxMTn8y0lunQYPnRENBq4/Sb73oOSEQUEkpGACALBSQohVDfLf/+d3/zz/V70eDRg/v37tx7ePujMvIbhrr84Soa8eT7x9H4ieQCVZ6uixC9fqxFuCB5eY7mpFpb3D2B7qtLUl7/huDkiwjG5yvg7Jo0vRigns3GU2i2SSpXGxPW95NPTggjtq8nSe7PRsJXx5Pj49a9nGd75GJM2zK1eIYvBSG2ROUh5ZtfpNDPH/r0OejTt5U9MmZOmzHajOOV1ROixanDDMkMu3dJqrUVOnzYaWQL/txlm6w+Wzf07j1aim62UnL87aN0S2w7IDVqdzGgv943vN3piJCo6g/n1YxY3rLk/GNWd0sYB1tBWRxN2OpByEoDrzZGG+PoP+3yd5G0nF3ImzMVY5F3p3B2YzYi52JgejFYdI6jfbhQGpE5COn1rxxSHc0+f2VgYeYM0jQ3wJ1pAxzIag6U3RsJD/7aCVSSgyIO3r3EoHZ/ZGNMSvSgs/0cGd2xODXVgESCJAApQKAUkFItBaKA/wFpCdCsQDtD4AAAAABJRU5ErkJggg==)](#)
@@ -328,7 +328,7 @@ Etc:<br /><br />
 
 <h3>
 <details>	
-<summary><b>👀 Technologies I have under vision:</b></summary><br />
+<summary>👀 Technologies I have under vision:</summary><br />
 
 Programming Languages:<br /><br />
 [![Swift Badge](https://img.shields.io/badge/swift-323330?style=for-the-badge&logo=swift&logoColor=FA7343)](#)
