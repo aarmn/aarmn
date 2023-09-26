@@ -387,11 +387,10 @@ Test/Make:<br /><br />
 <br />
 <div align="center">
 
- 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
- 
-</samp><p align ="centre"></p>
+
+
 </div>
 </details>
 </h3>
