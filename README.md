@@ -374,7 +374,7 @@ Test/Make:<br /><br />
 </details>
 </h3>
 
-<h3>
+
 <details>
 <summary>⚡ Fun fact:</summary><br />
 <h5>
@@ -386,7 +386,7 @@ Test/Make:<br /><br />
 </h5>
 <br />
 <div align="center">
- 
+
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
@@ -394,7 +394,6 @@ Test/Make:<br /><br />
 </samp></summary><p align ="centre"></p>
 </div>
 </details>
-</h3>
 
 
 <h3>
