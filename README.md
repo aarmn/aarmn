@@ -429,7 +429,7 @@ Test/Make:<br /><br />
  - **Website:** [**aarmn.com**](https://aarmn.com) 
  - **Telegram:** [@aarmn80](https://t.me/aarmn80) | [@aarmn_limitless](https://t.me/aarmn_limitless)
  - **Discord:** [aarmnthelimitless](https://discordapp.com/users/519566961118675007)
- - **Instagram:** [@limitless_aarmn](https://www.instagram.com/limitless_aarmn/)
+ - **Instagram:** [@aryan.horizon](https://www.instagram.com/aryan.horizon)
  - I'm Always Roaming [**StackExchange**](https://stackexchange.com/users/11582321/aarmn) if it counts as a place to reach, but I never kept to develop one acc there, give answer, vote up and etc; Yep, a big fault
  - I may write in my [**dev.to**](https://dev.to/aarmn)
  - **Email:** [aarmn80@gmail.com](mailto://aarmn80@gmail.com) | [laryanhorizon@gmail.com](mailto://laryanhorizon@gmail.com)
